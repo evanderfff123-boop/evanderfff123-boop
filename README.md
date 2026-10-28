@@ -12,8 +12,8 @@ M.S. student at UESTC (2028) · inference systems, AI infra, and high-performanc
 ![SGLang](https://img.shields.io/badge/SGLang-1F2937?logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-1F2937?logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=evanderfff123-boop&amp;show_icons=true&amp;theme=default" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanderfff123-boop&amp;layout=compact&amp;theme=default" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=evanderfff123-boop&amp;show_icons=true&amp;theme=default&amp;cache_seconds=43200" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanderfff123-boop&amp;layout=compact&amp;theme=default&amp;cache_seconds=172800" alt="Top languages" />
 
 </div>
 
