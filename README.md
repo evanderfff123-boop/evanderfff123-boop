@@ -24,8 +24,8 @@ M.S. student at UESTC (2028) · inference systems, AI infra, and high-performanc
 
 ## Education
 
-<img src="assets/uestc.png" height="20" align="middle" alt="UESTC" /> &nbsp;**University of Electronic Science and Technology of China** · M.S., expected 2028<br>
-<img src="assets/scu.png" height="20" align="middle" alt="Sichuan University" /> &nbsp;**Sichuan University** · B.S.
+<img src="assets/uestc.png" height="22" align="middle" alt="UESTC" /> &nbsp;**University of Electronic Science and Technology of China** · M.S., expected 2028<br>
+<img src="assets/scu.png" height="24" align="middle" alt="Sichuan University" /> &nbsp;**Sichuan University** · B.S.
 
 ## Say hi
 
