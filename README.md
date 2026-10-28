@@ -19,13 +19,13 @@ M.S. student at UESTC (2028) · inference systems, AI infra, and high-performanc
 
 ## Internships
 
-<img src="assets/bytedance.png" height="18" alt="ByteDance" /> &nbsp;**ByteDance** · AI Chip Team · Intern · NPU model modeling and simulation · 2026 H1<br>
-<img src="assets/company-placeholder.svg" height="18" alt="A Major Foundation-Model Company" /> &nbsp;**A Major Foundation-Model Company** · Intern · Kernel development and framework integration · 2026 H2 – Present
+<img src="assets/bytedance.png" height="16" align="middle" alt="ByteDance" /> &nbsp;**ByteDance** · AI Chip Team · Intern · NPU model modeling and simulation · 2026 H1<br>
+<img src="assets/company-placeholder.svg" height="16" align="middle" alt="A Major Foundation-Model Company" /> &nbsp;**A Major Foundation-Model Company** · Intern · Kernel development and framework integration · 2026 H2 – Present
 
 ## Education
 
-<img src="assets/uestc.png" height="18" alt="UESTC" /> &nbsp;**University of Electronic Science and Technology of China** · M.S., expected 2028<br>
-<img src="assets/scu.png" height="18" alt="Sichuan University" /> &nbsp;**Sichuan University** · B.S.
+<img src="assets/uestc.png" height="16" align="middle" alt="UESTC" /> &nbsp;**University of Electronic Science and Technology of China** · M.S., expected 2028<br>
+<img src="assets/scu.png" height="16" align="middle" alt="Sichuan University" /> &nbsp;**Sichuan University** · B.S.
 
 ## Say hi
 
